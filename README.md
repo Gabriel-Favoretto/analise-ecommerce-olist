@@ -42,4 +42,4 @@ Durante o projeto, foram praticados conceitos como:
 # Autor
 
 Gabriel Favoretto  
-[LinkedIn](https://www.linkedin.com/in/gabriel-favoretto/)
+[LinkedIn](https://www.linkedin.com/in/gabriel-favoretto-636a60173/)

@@ -1,45 +1,44 @@
 # Análise de E-commerce (Olist)
 
-Este é um projeto de análise exploratória de dados (EDA) feito com um dataset real de um e-commerce brasileiro (Olist). O objetivo foi praticar os fundamentos do **Python para Dados**, utilizando **Pandas**, **Seaborn** e **Matplotlib**, explorando e visualizando informações sobre pedidos, prazos de entrega e categorias de produtos.
+Esse projeto é uma análise exploratória de dados usando um conjunto real de um e-commerce brasileiro (Olist). A ideia foi treinar os primeiros passos com Python voltado para dados, mexendo com bibliotecas como Pandas, Seaborn e Matplotlib.
 
-- **Nível do projeto:** Iniciante  
-- **Ferramentas:** Python, Google Colab, Pandas, Seaborn, Matplotlib
+- **Nível:** Iniciante  
+- **Ferramentas:** Google Colab, Python, Pandas, Seaborn, Matplotlib
 
-#  Objetivos
+## Objetivos
 
-- Analisar prazos reais de entrega
-- Verificar atrasos e padrões de compra
-- Explorar o volume de pedidos por dia da semana
-- Identificar as categorias de produtos mais vendidas
+- Ver como funcionam os prazos de entrega na prática
+- Identificar pedidos que foram entregues com atraso
+- Descobrir quais dias da semana têm mais pedidos
+- Ver quais categorias de produtos vendem mais
 
-# Arquivo principal
+## Como abrir o projeto
 
-- Abra o notebook no Google Colab:
+Você pode rodar direto no Colab clicando no botão abaixo:
 
 [![Abrir no Colab](https://img.shields.io/badge/Ver%20no-Colab-blue?logo=googlecolab)](https://colab.research.google.com/drive/1O63aLtmaKGVltuugeBUY8QDfdKRbywyz)
 
+## Principais análises que fiz
 
-# Principais Análises
-
-- Tempo médio de entrega real vs. prazo estimado
-- Quantidade de pedidos por status
+- Comparação entre o tempo real de entrega e o prazo estimado
+- Quantidade de pedidos por tipo de status (entregue, processando, etc.)
 - Dias da semana com mais vendas
-- Categorias mais vendidas
+- Categorias de produtos mais vendidas
 
-# Fonte dos Dados
+## Fonte dos dados
 
-Os dados utilizados neste projeto são públicos e disponibilizados pela Olist:
-- [Repositório oficial da Olist no Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Os dados são públicos e foram disponibilizados pela Olist:
 
-# Aprendizados
+[👉 Ver no Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-Durante o projeto, foram praticados conceitos como:
-- Manipulação de DataFrames
-- Tratamento de dados ausentes
-- Conversão de datas e cálculo de tempo
-- Visualização com gráficos de barras, contagem e comparação
+## O que aprendi com esse projeto
 
-# Autor
+- Como tratar e organizar dados com o Pandas
+- Lidar com datas e calcular o tempo entre elas
+- Criar gráficos simples com Seaborn e Matplotlib
+- Gerar insights olhando para dados reais
+
+## Autor
 
 Gabriel Favoretto  
-[LinkedIn](https://www.linkedin.com/in/gabriel-favoretto-636a60173/)
+[Meu LinkedIn](https://www.linkedin.com/in/gabriel-favoretto-636a60173/)

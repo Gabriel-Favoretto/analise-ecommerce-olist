@@ -38,7 +38,7 @@ Os dados são públicos e foram disponibilizados pela Olist:
 - Criar gráficos simples com Seaborn e Matplotlib
 - Gerar insights olhando para dados reais
 
-### O que observei com os dados
+## O que observei com os dados
 
 - A maioria dos pedidos foi entregue dentro do prazo, mas uma parte ainda chegou com atraso.
 - O prazo estimado de entrega costuma ser bem maior do que o tempo real que a entrega leva. Talvez seja uma margem de segurança da loja.

@@ -38,6 +38,14 @@ Os dados são públicos e foram disponibilizados pela Olist:
 - Criar gráficos simples com Seaborn e Matplotlib
 - Gerar insights olhando para dados reais
 
+### O que observei com os dados
+
+- A maioria dos pedidos foi entregue dentro do prazo, mas uma parte ainda chegou com atraso.
+- O prazo estimado de entrega costuma ser bem maior do que o tempo real que a entrega leva. Talvez seja uma margem de segurança da loja.
+- Segunda-feira é o dia com mais compras — pode ser que as pessoas aproveitam pra resolver pendências do fim de semana.
+- As categorias mais vendidas são bem ligadas ao dia a dia, como utilidades domésticas, cama, mesa e banho e eletrônicos.
+- Nem todos os pedidos chegam a ser entregues. Alguns ficam com status como cancelado, processando, etc.
+
 ## Autor
 
 Gabriel Favoretto  

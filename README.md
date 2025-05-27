@@ -26,7 +26,7 @@ Você pode rodar direto no Colab clicando no botão abaixo:
 
 Os dados são públicos e foram disponibilizados pela Olist:
 
-[👉 Ver no Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+[Ver no Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## O que aprendi com esse projeto
 

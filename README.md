@@ -2,9 +2,6 @@
 
 Esse projeto é uma análise exploratória de dados usando um conjunto real de um e-commerce brasileiro (Olist). A ideia foi treinar os primeiros passos com Python voltado para dados, mexendo com bibliotecas como Pandas, Seaborn e Matplotlib.
 
-- **Nível:** Iniciante  
-- **Ferramentas:** Google Colab, Python, Pandas, Seaborn, Matplotlib
-
 ## Objetivos
 
 - Ver como funcionam os prazos de entrega na prática
